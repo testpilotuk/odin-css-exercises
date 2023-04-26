@@ -1,0 +1,17 @@
+/* stylesheet for The Odin Project CSS Project #2 */
+.odd-class {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.third-element {
+    font-size: 24px;
+}
+#id-one {
+    color: #0000ff;
+    font-size: 36px;
+}
+#id-two {
+    background-color: #80ff80;
+    font-weight: bold;
+    font-size: 24px;
+}
